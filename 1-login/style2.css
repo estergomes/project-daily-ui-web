@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #513666;
+  /* Old browsers */
+  background: linear-gradient(to bottom, #cc00ff 10%, #0000a7 94%) no-repeat;
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #513666;
+  max-width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  background: #513666;
+  background: linear-gradient(to bottom, #00fabb 0%, #cc00ff 57%, #0000a7 90%)
+    no-repeat;
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  border-radius: 1px;
+  width: 295px;
+  height: 518px;
+  margin: 0 auto;
+  position: relative;
+  box-shadow: 2px 7px 23px 0px rgba(9, 2, 33, 0.5);
+}
+
+.login {
+  background: url("img/bg.png") no-repeat;
+  background-size: contain;
+  border-radius: 1px;
+  width: 295px;
+  height: 518px;
+  position: relative;
+  margin-top: 150px;
+}
+
+/* .profile-img {
+  padding-top: 40px;
+  padding-bottom: 25px;
+  position: relative;
+  display: block;
+} */
+
+/* .avatar {
+  background: #fff url("img/avatar.png") no-repeat;
+  background-size: contain;
+  border-radius: 50%;
+  border: 8px solid rgba(255, 255, 255, 0.2);
+  background-clip: padding-box;
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 125px;
+  height: 125px;
+  padding: 15px;
+} */
+/* 
+.login-form {
+  background: #fff;
+  border-radius: 5px;
+  display: block;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0 auto;
+  width: 225px;
+  height: 213px;
+  position: relative;
+  text-align: center;
+  z-index: 9999;
+}
+
+.login h1 {
+  margin: 10px 0;
+}
+
+login::placeholder {
+  font-size: 12px;
+}
+
+form {
+  margin-bottom: 30px;
+}
+
+form input {
+  box-sizing: content-box;
+  display: block;
+  margin: 10px auto;
+  border: none;
+  box-sizing: border-box;
+  padding: 5px;
+  transition: 0.5s color ease-in;
+}
+
+input:hover,
+input:active,
+input:focus {
+  border-bottom: 1px solid #cc00ffe8;
+}
+
+input::placeholder {
+  font-size: 10px;
+}
+
+button {
+  border: none;
+  border-radius: 50px;
+  background: #b96cf4;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0 auto;
+  display: block;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #c586fc;
+}
+
+.login span {
+  font-size: 10px;
+}
+
+.fa-chevron-right {
+  font-size: 10px;
+} */
